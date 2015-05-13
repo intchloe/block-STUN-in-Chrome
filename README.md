@@ -1,4 +1,4 @@
-# block-STUN-in-Chrome
+# Block STUN in Chrome
 
 
 # How
